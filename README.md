@@ -33,4 +33,7 @@ DataTable activities (Filter Data Table, For Each Row)
 - You must be logged in to Spotify in Chrome before running.
 
 ## Screenshot
-(add a screenshot of the workflow in Studio here)
+<img width="1366" height="726" alt="Screenshot 2026-11-13 014127" src="https://github.com/user-attachments/assets/6ef419bf-9b68-4d1a-9d16-e5a0889a6b97" />
+<img width="1366" height="724" alt="Screenshot 2026-11-13 013953" src="https://github.com/user-attachments/assets/be4ab559-b508-42ea-b014-4f194e18b6d8" />
+<img width="1366" height="724" alt="Screenshot 2026-11-13 013858" src="https://github.com/user-attachments/assets/d5ed81c9-174e-430d-9028-c193f76dd883" />
+<img width="1366" height="726" alt="Screenshot 2026-11-13 014303" src="https://github.com/user-attachments/assets/97a78dfa-c0b7-4bd7-b8d3-64381593a730" />
